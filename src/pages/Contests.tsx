@@ -1,5 +1,6 @@
 
 import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button"; // Add this import
 
 const Contests = () => {
   const contests = [
